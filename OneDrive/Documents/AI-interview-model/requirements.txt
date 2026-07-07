@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+faster-whisper
+chromadb
+sentence-transformers
+langchain
+pyqt6
+sounddevice
+numpy
+torch
+ollama
+pytest
+requests
+pydantic-settings
